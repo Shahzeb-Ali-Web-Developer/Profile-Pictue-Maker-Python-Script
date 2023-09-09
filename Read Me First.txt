@@ -12,8 +12,8 @@ Linkedin, Whatsapp or FaceBook.
 
 >> How To Use :
 
-Download all the files and place them in a folder. Put in the picture you want to edit in the same folder, make sure its in
-JPG format and is square shaped, and rename it to "input.jpg" (a sample would be there for u).
+Download all the files and place them in a folder. Extract the onyl zip file named "To be extracted in same folder" and Put in the picture you want to edit in the same folder, make sure its in
+JPG format and is square shaped. Then rename the picture to "input.jpg" (a sample would be already there for u).
 
 After this, open the Run.py file in some code editor (I made this on PyCharm) and make sure you've all packages installed which are used init.
 
