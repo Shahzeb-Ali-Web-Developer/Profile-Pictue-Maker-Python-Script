@@ -1,0 +1,29 @@
+# Profile-Pictue-Maker-Python-Script
+This script can help you to turn a simple picture into a professional Profile Picture to be used on any social platform like Linkedin, Whatsapp or FaceBook.
+
+Professional Profile Picture Maker Python Script by Shahzeb Ali - Professional Web Developer
+
+>> About Developer :
+
+I'm a professional web developer and Python Learner, making everyday count by exploring the world of coding and development.
+Catch me on LinkedIn at https://linkedin.com/in/shahzeb2001 or visit our website www.NextOnDev.com
+
+>> About Script :
+
+This script can help you to turn a simple picture into a professional Profile Picture to be used on any social platfrom like
+Linkedin, Whatsapp or FaceBook.
+
+>> How To Use :
+
+Download all the files and place them in a folder. Extract the onyl zip file named "To be extracted in same folder" and Put in the picture you want to edit in the same folder, make sure its in
+JPG format and is square shaped. Then rename the picture to "input.jpg" (a sample would be already there for u).
+
+After this, open the Run.py file in some code editor (I made this on PyCharm) and make sure you've all packages installed which are used init.
+
+Hit Run and it'll generate the picture for you.
+
+Note: If you see error "Insuficient Credit", go to www.remove.bg and get API key by creating a free account. Replace that API key in Run.py file using some code editor, in 9th Line.
+
+
+
+Enjoy!
